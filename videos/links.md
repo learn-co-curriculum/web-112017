@@ -2,6 +2,6 @@
 1. [Hashketball Review](http://youtu.be/n1wlq-XM8SM) | [Code](https://gist.github.com/alexgriff/9f3e5cccd2b851aa049095190793d4bb)
 2. [Hashes and the Internet](http://youtu.be/I_OUggzn888) | [Code](https://gist.github.com/alexgriff/f93188183bf6aa3a58c2fea114c51eaa)
 3. [Object Orientation](https://www.youtube.com/watch?v=pUsQzuMxDp0&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/web-112017-oo-intro)
-   _The second half of the video above is audio only, here is a previosu cohort's video [Intro to Objects](http://youtu.be/1kS042xdn8E) | [Code](https://github.com/learn-co-curriculum/web-082817-intro-to-oo)_
+   * _Due to some technical issues, the second half of the video above is audio only, here is a previous cohort's video [Object Orientation](http://youtu.be/1kS042xdn8E) | [Code](https://github.com/learn-co-curriculum/web-082817-intro-to-oo)_
 4. [Object Relations: Has Many/Belongs To] video coming soon | [Code](https://github.com/learn-co-curriculum/web-112017-object-relations/)
 5. _Thanksgiving Break: video from previous cohort_ [Has Many Through and Object Architecture](http://youtu.be/CCczH9EL_Uw)| [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817) | [My Pets](https://github.com/learn-co-curriculum/my-pets-redo-082817) 
