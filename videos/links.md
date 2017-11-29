@@ -5,3 +5,4 @@
    * _Due to some technical issues, the second half of the video above is audio only, here is a previous cohort's video [Object Orientation](http://youtu.be/1kS042xdn8E) | [Code](https://github.com/learn-co-curriculum/web-082817-intro-to-oo)_
 4. [Object Relations: Has Many/Belongs To](http://youtu.be/oXjcnk5tn3g) | [Code](https://github.com/learn-co-curriculum/web-112017-object-relations/)
 5. _Thanksgiving Break: video from previous cohort_ [Has Many Through and Object Architecture](http://youtu.be/CCczH9EL_Uw)| [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817) | [My Pets](https://github.com/learn-co-curriculum/my-pets-redo-082817) 
+6. [SQL](https://youtu.be/tMDiocREXYE)
