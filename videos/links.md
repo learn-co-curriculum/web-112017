@@ -8,3 +8,4 @@
 6. [SQL](https://youtu.be/tMDiocREXYE)
 7. ORM [Code](https://github.com/learn-co-students/web-112017/tree/master/orm)
 8. [ActiveRecord](https://youtu.be/UDv6n9ryFXs) | [Code](https://github.com/learn-co-students/web-112017/tree/master/3_activerecord)
+9. [Sinatra Forms](https://youtu.be/4IQb4apZQAU) |  [Code](https://github.com/learn-co-students/web-112017/tree/master/6_sinatra_forms)
