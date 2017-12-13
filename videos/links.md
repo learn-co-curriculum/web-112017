@@ -9,3 +9,4 @@
 7. ORM [Code](https://github.com/learn-co-students/web-112017/tree/master/orm)
 8. [ActiveRecord](https://youtu.be/UDv6n9ryFXs) | [Code](https://github.com/learn-co-students/web-112017/tree/master/3_activerecord)
 9. [Sinatra Forms](https://youtu.be/4IQb4apZQAU) |  [Code](https://github.com/learn-co-students/web-112017/tree/master/6_sinatra_forms)
+10 [RESTful Routing and More Sinatra Forms (patch and delete)](https://youtu.be/ZwhaXjBP3zw) | [Code](https://github.com/learn-co-students/web-112017/tree/master/7_sinatra_authors/worsereads)
