@@ -4,7 +4,7 @@
 3. [Object Orientation](https://www.youtube.com/watch?v=pUsQzuMxDp0&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/web-112017-oo-intro)
    * _Due to some technical issues, the second half of the video above is audio only, here is a previous cohort's video [Object Orientation](http://youtu.be/1kS042xdn8E) | [Code](https://github.com/learn-co-curriculum/web-082817-intro-to-oo)_
 4. [Object Relations: Has Many/Belongs To](http://youtu.be/oXjcnk5tn3g) | [Code](https://github.com/learn-co-curriculum/web-112017-object-relations/)
-5. _Thanksgiving Break: video from previous cohort_ [Has Many Through and Object Architecture](http://youtu.be/CCczH9EL_Uw)| [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817) | [My Pets](https://github.com/learn-co-curriculum/my-pets-redo-082817) 
+5. _Thanksgiving Break: video from previous cohort_ [Has Many Through and Object Architecture](http://youtu.be/CCczH9EL_Uw)| [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817) | [My Pets](https://github.com/learn-co-curriculum/my-pets-redo-082817)
 6. [SQL](https://youtu.be/tMDiocREXYE)
 7. ORM [Code](https://github.com/learn-co-students/web-112017/tree/master/orm)
 8. [ActiveRecord](https://youtu.be/UDv6n9ryFXs) | [Code](https://github.com/learn-co-students/web-112017/tree/master/3_activerecord)
@@ -13,3 +13,7 @@
 11. [Rails ActiveRecord Validations](https://youtu.be/b14U1TigRyk) | [Code](https://github.com/learn-co-students/web-112017/tree/master/10_rails_forms/pretzelstore)
 12. [Rails Authorization](https://youtu.be/19ULpSmrl7I) | [Code](https://github.com/learn-co-students/web-112017/tree/master/12_rails_auth/zooapp)
 13. [Testing with RSpec](https://youtu.be/i5CBtvs2GB8) | [Code](https://github.com/learn-co-students/web-112017/tree/master/13_tests_rspec)
+
+
+## Module 3
+1. [Intro / Procedural JS](https://youtu.be/3ZbsbAdTxt4) | [Code](https://github.com/learn-co-students/web-112017/tree/master/14_intro_js)
