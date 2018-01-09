@@ -17,3 +17,4 @@
 
 ## Module 3
 1. [Intro / Procedural JS](https://youtu.be/3ZbsbAdTxt4) | [Code](https://github.com/learn-co-students/web-112017/tree/master/14_intro_js)
+2. [Functional JS](https://youtu.be/NcKLiPpXjqU) | [Code](https://github.com/learn-co-students/web-112017/tree/master/15_functional_js)
