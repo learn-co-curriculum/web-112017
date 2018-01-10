@@ -19,3 +19,4 @@
 1. [Intro / Procedural JS](https://youtu.be/3ZbsbAdTxt4) | [Code](https://github.com/learn-co-students/web-112017/tree/master/14_intro_js)
 2. [Functional JS](https://youtu.be/NcKLiPpXjqU) | [Code](https://github.com/learn-co-students/web-112017/tree/master/15_functional_js)
 3. Execution context | [Code](https://github.com/learn-co-students/web-112017/tree/master/16_this_object_creation)
+4. [Object Creation](https://youtu.be/VzcCznPvZtA) | [Code](https://github.com/learn-co-students/web-112017/tree/master/16_this_object_creation)
