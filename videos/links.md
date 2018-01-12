@@ -21,3 +21,4 @@
 3. Execution context | [Code](https://github.com/learn-co-students/web-112017/tree/master/16_this_object_creation)
 4. [Object Creation](https://youtu.be/VzcCznPvZtA) | [Code](https://github.com/learn-co-students/web-112017/tree/master/16_this_object_creation)
 5. [The Browser (DOM, BOM, and Elements)](https://youtu.be/oVp-CKK25NM) | [Code](https://github.com/learn-co-students/web-112017/tree/master/17_dom)
+6. [The Browser (Events)](https://youtu.be/6kezePuKC6k) | [Code](https://github.com/learn-co-students/web-112017/tree/master/18_events)
