@@ -25,4 +25,4 @@
 7. [Organizing code](https://youtu.be/auv_hwzF4g8) | [Code](https://github.com/learn-co-students/web-112017/tree/master/19_organization)
 8. _coming soon_
 9. [Fetch and TaskLister](https://youtu.be/xEUBnm7y3nY) | [Code](https://github.com/learn-co-students/web-112017/tree/master/21_tasklister_fetch)
-10. [Rails API Tasklister](https://youtu.be/20m1KOAvs18) | [Code]
+10. [Rails API Tasklister](https://youtu.be/20m1KOAvs18) | [Code](https://github.com/learn-co-students/web-112017/tree/master/22-tasklister_rails_api)
