@@ -23,6 +23,6 @@
 5. [The Browser (DOM, BOM, and Elements)](https://youtu.be/oVp-CKK25NM) | [Code](https://github.com/learn-co-students/web-112017/tree/master/17_dom)
 6. [The Browser (Events)](https://youtu.be/6kezePuKC6k) | [Code](https://github.com/learn-co-students/web-112017/tree/master/18_events)
 7. [Organizing code](https://youtu.be/auv_hwzF4g8) | [Code](https://github.com/learn-co-students/web-112017/tree/master/19_organization)
-8. _coming soon_
+8. [XHR and fetch (**no audio**)](https://youtu.be/I-REXvfysNs) | [Code](https://github.com/learn-co-students/web-112017/tree/master/20_fetch_and_promise)
 9. [Fetch and TaskLister](https://youtu.be/xEUBnm7y3nY) | [Code](https://github.com/learn-co-students/web-112017/tree/master/21_tasklister_fetch)
 10. [Rails API Tasklister](https://youtu.be/20m1KOAvs18) | [Code](https://github.com/learn-co-students/web-112017/tree/master/22-tasklister_rails_api)
