@@ -26,3 +26,9 @@
 8. [XHR and fetch (**no audio**)](https://youtu.be/I-REXvfysNs) | [Code](https://github.com/learn-co-students/web-112017/tree/master/20_fetch_and_promise)
 9. [Fetch and TaskLister](https://youtu.be/xEUBnm7y3nY) | [Code](https://github.com/learn-co-students/web-112017/tree/master/21_tasklister_fetch)
 10. [Rails API Tasklister](https://youtu.be/20m1KOAvs18) | [Code](https://github.com/learn-co-students/web-112017/tree/master/22-tasklister_rails_api)
+
+## Module 4
+1. Intro to React & JSX
+2. [Props & State](https://youtu.be/f4O2YTfJ7iE) | [Code](https://github.com/learn-co-students/web-112017/tree/master/26_props_state/props-state)
+3. [Forms, Events, State](https://youtu.be/UWwO_RrIblQ) | [Code](https://github.com/learn-co-students/web-112017/tree/master/27_forms_events_state/tasks)
+
