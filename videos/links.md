@@ -31,4 +31,8 @@
 1. Intro to React & JSX
 2. [Props & State](https://youtu.be/f4O2YTfJ7iE) | [Code](https://github.com/learn-co-students/web-112017/tree/master/26_props_state/props-state)
 3. [Forms, Events, State](https://youtu.be/UWwO_RrIblQ) | [Code](https://github.com/learn-co-students/web-112017/tree/master/27_forms_events_state/tasks)
-
+4. [More React Thinking](https://youtu.be/asSxJALpksA) | [Code](https://github.com/learn-co-students/web-112017/tree/master/28_more_react_thinking/art-gallery)
+5. Controlled Forms | [Code](https://github.com/learn-co-students/web-112017/tree/master/29_react_controlled_forms_review/super-forms)
+6. [Component Lifecycle](https://youtu.be/yC_XQS10Vos) | [Code](https://github.com/learn-co-students/web-112017/tree/master/30_component_lifecycle/crypto-ticker)
+7. [ActionCable with Rails & React](https://youtu.be/ZJjlzRoyCjs) 
+7. [React Router](https://youtu.be/_oOdlSJfPo4) | [Code](https://github.com/learn-co-students/web-112017/tree/master/31_react_router/art-gallery-routes)
