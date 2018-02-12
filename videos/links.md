@@ -35,4 +35,6 @@
 5. Controlled Forms | [Code](https://github.com/learn-co-students/web-112017/tree/master/29_react_controlled_forms_review/super-forms)
 6. [Component Lifecycle](https://youtu.be/yC_XQS10Vos) | [Code](https://github.com/learn-co-students/web-112017/tree/master/30_component_lifecycle/crypto-ticker)
 7. [ActionCable with Rails & React](https://youtu.be/ZJjlzRoyCjs) 
-7. [React Router](https://youtu.be/_oOdlSJfPo4) | [Code](https://github.com/learn-co-students/web-112017/tree/master/31_react_router/art-gallery-routes)
+8. [React Router](https://youtu.be/_oOdlSJfPo4) | [Code](https://github.com/learn-co-students/web-112017/tree/master/31_react_router/art-gallery-routes)
+9. [React Auth](https://youtu.be/2ACoOb5VpHU) [Part 2](https://youtu.be/jHXPB720rck) | [Code](https://github.com/learn-co-students/web-112017/tree/master/32_react_auth)
+10. [Sockets as Client](https://youtu.be/Yuuvt0uYoKk) | [Code](https://github.com/learn-co-students/web-112017/tree/master/33_sockets_as_client)
