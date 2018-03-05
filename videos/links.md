@@ -45,3 +45,6 @@
 10. [Sockets as Client](https://youtu.be/Yuuvt0uYoKk) | [Code](https://github.com/learn-co-students/web-112017/tree/master/33_sockets_as_client)
 11. [Intro to Redux](https://youtu.be/tYVYVLaCQus) | [Code](https://github.com/learn-co-students/web-112017/tree/master/36_redux_intro)
 12. [React and Redux](https://youtu.be/V4Qdp7ADSqs) | [Code](https://github.com/learn-co-students/web-112017/tree/master/37)
+
+## Module 5
+1. [Recursion & Big O Notation](https://youtu.be/EWxfy3ax8dg)
